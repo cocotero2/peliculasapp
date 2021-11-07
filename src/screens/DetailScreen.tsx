@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
   imageBorder: {
     flex: 1,
     overflow: 'hidden',
-    borderBottomEndRadius: 25,
+    borderBottomEndRadius: 26,
     borderBottomStartRadius: 25,
   },
   posterImage: {
